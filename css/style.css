@@ -1,0 +1,26 @@
+h1{
+	text-align: center;
+	text-transform: uppercase;
+}
+.form{
+	width: 80%;
+	margin: 0 auto;
+	border: 2px solid black;
+	font-size: 30px;
+	color: teal;
+}
+.first-name, .last-name, .email, .password, .date{
+	width: 90%;
+	padding: 10px;
+	font-size: 16px;
+}
+.message{
+font-size: 16px;
+padding: 10px;
+}
+button{
+	width: 70px;
+	height: 20px;
+	color: teal;
+	    background-color: black;
+}
